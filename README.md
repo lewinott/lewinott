@@ -35,7 +35,5 @@
   <h3 align="center">🎀 GitHub Stats! ˎˊ-</h3>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lewinott&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewinott&layout=compact&langs_count=7&theme=dracula"/>
-
 </div>
 
