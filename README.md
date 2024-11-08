@@ -7,7 +7,7 @@
 
 
   
-<img align="right" alt="" src="https://i.pinimg.com/originals/d5/c3/84/d5c384d0d6ba28b7ba8f2b80bc37a725.gif">
+<img align="right" alt="" src="https://i.pinimg.com/originals/38/83/8d/38838d2369fe10f9e3f03e92bde4883c.gif">
 
 <p align="left">Passionate about building beautiful and user-friendly interfaces. Currently diving into web development while learning everything about systems analysis. Always eager to improve my skills and collaborate on exciting projects!
 
