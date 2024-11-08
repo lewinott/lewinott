@@ -18,11 +18,7 @@
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<h3 align="left">🎀 Find me here!</h3>
-<a align="left" href="https://www.linkedin.com/in/levi-pinott-964a84263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-<h3 align="left">🎀 My stack</h3>
+<h3 align="center">🎀 My stacks ˎˊ-</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +29,7 @@
 
 
 <div style="text-align: center;" align="center">
-  <h3>-ˋˏ  GitHub Stats ☆ˎˊ-</h3>
+  <h3 align="center">🎀 GitHub Stats! ˎˊ-</h3>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lewinott&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewinott&layout=compact&langs_count=7&theme=dracula"/>
