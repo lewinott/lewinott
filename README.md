@@ -1,10 +1,13 @@
 <div align="center">
+    <img src= "https://capsule-render.vercel.app/api?type=waving&height=150&color=F7D1F2">
   <a href="https://git.io/typing-svg">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7D1F2&width=435&lines=-%CB%8B%CB%8F++Welcome+to+my+profile!+%E2%98%86+%CB%8E%CB%8A-" alt="Typing SVG" /></a>
   </a>
 </div>
 
-#
+
+  
+<img align="right" alt="" src="https://i.pinimg.com/originals/d5/c3/84/d5c384d0d6ba28b7ba8f2b80bc37a725.gif">
 
 <p align="left">Passionate about building beautiful and user-friendly interfaces. Currently diving into web development while learning everything about systems analysis. Always eager to improve my skills and collaborate on exciting projects!
 
@@ -13,11 +16,11 @@
 **<p align="left"> ꒰🐇 Completed an extensive Systems Development course at SENAI.**
 
  **<p align="left"> ꒰🐇 Strong focus on UI/UX design, with a particular passion for UI design!**
-  
-#
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
+
+
+<br>
 <h3 align="center">🎀 My stacks ˎˊ-</h3>
 
 <p align="center">
